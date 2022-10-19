@@ -1,1 +1,2 @@
 # assignment1
+MODIFIED BY EMIR ZAL OZTUNC at OCTOBER 19th, at 18.08
